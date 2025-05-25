@@ -31,10 +31,10 @@ import React from 'react';
     ];
 
     const leadershipContacts = [
-      { name: "Dr. Ayesha Khan", role: "President & CEO", email: "president.office@itve.edu.pk", phone: "+92 21 3456 7890", icon: <UserCircle className="h-8 w-8 text-itve-blue" /> },
-      { name: "Mr. Bilal Ahmed", role: "Director of Admissions & Student Affairs", email: "admissions@itve.edu.pk", phone: "+92 21 3456 7891", icon: <Building className="h-8 w-8 text-itve-blue" /> },
-      { name: "Ms. Fatima Zahra", role: "Human Resources Director", email: "hr.department@itve.edu.pk", phone: "+92 21 3456 7892", icon: <Briefcase className="h-8 w-8 text-itve-blue" /> },
-      { name: "Prof. Usman Ghani", role: "Head of Academics & Curriculum", email: "academics@itve.edu.pk", phone: "+92 21 3456 7893", icon: <UserCircle className="h-8 w-8 text-itve-blue" /> },
+      { name: "Muhammad Talha Nawaz", role: "President", email: "president.office@itve.edu.pk", phone: "+92 21 3456 7890", icon: <UserCircle className="h-8 w-8 text-itve-blue" /> },
+      { name: "Mr. Sahil", role: "Chief Administrator", email: "chief.administrator@itve.edu.pk", phone: "+92 21 3456 7891", icon: <Building className="h-8 w-8 text-itve-blue" /> },
+      { name: "Mr. Muhammad Osama", role: "Head of Academics", email: "academics@itve.edu.pk", phone: "+92 21 3456 7892", icon: <Briefcase className="h-8 w-8 text-itve-blue" /> },
+      { name: "Ms. Haashi", role: "Chief Financial Officer", email: "cfo@itve.edu.pk", phone: "+92 21 3456 7893", icon: <UserCircle className="h-8 w-8 text-itve-blue" /> },
     ];
     
 
