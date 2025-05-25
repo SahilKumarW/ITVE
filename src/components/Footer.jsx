@@ -66,7 +66,7 @@
                 <ul className="mt-4 space-y-2 text-sm text-itve-blue-light opacity-80">
                   <li>Email: info@itve.edu</li>
                   <li>Phone: +1 (234) 567-8900</li>
-                  <li>Address: 123 Education Lane, Skill City, SC 12345</li>
+                  <li>Address: 123 Education Lane, Karachi, Pakistan 12345</li>
                 </ul>
               </div>
               

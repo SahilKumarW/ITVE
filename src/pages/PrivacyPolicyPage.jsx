@@ -109,7 +109,7 @@ import React from 'react';
                     <p>
                       Data Protection Officer<br />
                       Institute of Technical & Vocational Education (ITVE)<br />
-                      123 Education Lane, Skill City, SC 12345<br />
+                      123 Education Lane, Karachi, Pakistan 12345<br />
                       Email: <a href="mailto:privacy@itve.edu.pk" className="text-itve-blue hover:underline">privacy@itve.edu.pk</a><br />
                       Phone: <a href="tel:+922134567899" className="text-itve-blue hover:underline">+92 21 3456 7899</a>
                     </p>

@@ -100,7 +100,7 @@ import React from 'react';
                     <p>
                       Legal Department<br />
                       Institute of Technical & Vocational Education (ITVE)<br />
-                      123 Education Lane, Skill City, SC 12345<br />
+                      123 Education Lane, Karachi, Pakistan 12345<br />
                       Email: <a href="mailto:legal@itve.edu.pk" className="text-itve-blue hover:underline">legal@itve.edu.pk</a><br />
                       Phone: <a href="tel:+922134567898" className="text-itve-blue hover:underline">+92 21 3456 7898</a>
                     </p>
